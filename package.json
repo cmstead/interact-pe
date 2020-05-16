@@ -1,0 +1,32 @@
+{
+  "name": "interact-pe",
+  "version": "0.1.0",
+  "description": "A static page progressive enhancement framework",
+  "scripts": {
+    "test": "node node_modules/karma/bin/karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmstead/interact-pe.git"
+  },
+  "keywords": [
+    "progressive",
+    "enhancement",
+    "static",
+    "site",
+    "interactivity",
+    "reactive"
+  ],
+  "author": "Chris Stead",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmstead/interact-pe/issues"
+  },
+  "homepage": "https://github.com/cmstead/interact-pe#readme",
+  "devDependencies": {
+    "karma": "^5.0.5",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-qunit": "^4.1.1",
+    "qunit": "^2.10.0"
+  }
+}
